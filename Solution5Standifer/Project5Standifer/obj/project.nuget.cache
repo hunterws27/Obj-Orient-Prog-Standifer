@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zBudgldMI00=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hwsta\\Desktop\\ITD2343-Portfolio-HunterStandifer\\Assignments\\Hands on & Labs\\Solution5Standifer\\Project5Standifer\\Project5Standifer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hwsta\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\hwsta\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\hwsta\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\8.0.22\\microsoft.netcore.app.host.win-arm64.8.0.22.nupkg.sha512",
+    "C:\\Users\\hwsta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

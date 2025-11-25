@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "module4Project-Standifer", "module4Project-Standifer\module4Project-Standifer.csproj", "{BEBF17FA-FD67-45D5-8F72-614BBFB7B6DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEBF17FA-FD67-45D5-8F72-614BBFB7B6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEBF17FA-FD67-45D5-8F72-614BBFB7B6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEBF17FA-FD67-45D5-8F72-614BBFB7B6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEBF17FA-FD67-45D5-8F72-614BBFB7B6DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F59FEF86-ECB3-479C-84DB-F8D34A4101A5}
+	EndGlobalSection
+EndGlobal

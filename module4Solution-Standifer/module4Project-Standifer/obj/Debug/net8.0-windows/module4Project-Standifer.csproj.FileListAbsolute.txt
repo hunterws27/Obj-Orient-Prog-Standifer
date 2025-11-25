@@ -1,0 +1,32 @@
+C:\Users\hwsta\Desktop\module4Solution-Standifer\module4Project-Standifer\obj\Debug\net8.0-windows\module4Project-Standifer.csproj.GenerateResource.cache
+C:\Users\hwsta\Desktop\module4Solution-Standifer\module4Project-Standifer\obj\Debug\net8.0-windows\module4Project-Standifer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwsta\Desktop\module4Solution-Standifer\module4Project-Standifer\obj\Debug\net8.0-windows\module4Project-Standifer.AssemblyInfoInputs.cache
+C:\Users\hwsta\Desktop\module4Solution-Standifer\module4Project-Standifer\obj\Debug\net8.0-windows\module4Project-Standifer.AssemblyInfo.cs
+C:\Users\hwsta\Desktop\module4Solution-Standifer\module4Project-Standifer\obj\Debug\net8.0-windows\module4Project-Standifer.csproj.CoreCompileInputs.cache
+C:\Users\hwsta\Desktop\module4Solution-Standifer\module4Project-Standifer\obj\Debug\net8.0-windows\module4Project_Standifer.frmOfDataTypes.resources
+C:\Users\hwsta\Desktop\module4Solution-Standifer\module4Project-Standifer\bin\Debug\net8.0-windows\module4Project-Standifer.exe
+C:\Users\hwsta\Desktop\module4Solution-Standifer\module4Project-Standifer\bin\Debug\net8.0-windows\module4Project-Standifer.deps.json
+C:\Users\hwsta\Desktop\module4Solution-Standifer\module4Project-Standifer\bin\Debug\net8.0-windows\module4Project-Standifer.runtimeconfig.json
+C:\Users\hwsta\Desktop\module4Solution-Standifer\module4Project-Standifer\bin\Debug\net8.0-windows\module4Project-Standifer.dll
+C:\Users\hwsta\Desktop\module4Solution-Standifer\module4Project-Standifer\bin\Debug\net8.0-windows\module4Project-Standifer.pdb
+C:\Users\hwsta\Desktop\module4Solution-Standifer\module4Project-Standifer\obj\Debug\net8.0-windows\module4Project-Standifer.dll
+C:\Users\hwsta\Desktop\module4Solution-Standifer\module4Project-Standifer\obj\Debug\net8.0-windows\refint\module4Project-Standifer.dll
+C:\Users\hwsta\Desktop\module4Solution-Standifer\module4Project-Standifer\obj\Debug\net8.0-windows\module4Project-Standifer.pdb
+C:\Users\hwsta\Desktop\module4Solution-Standifer\module4Project-Standifer\obj\Debug\net8.0-windows\module4Project-Standifer.genruntimeconfig.cache
+C:\Users\hwsta\Desktop\module4Solution-Standifer\module4Project-Standifer\obj\Debug\net8.0-windows\ref\module4Project-Standifer.dll
+C:\Users\hwsta\Desktop\ITD2343-Portfolio-HunterStandifer\Assignments\Hands on & Labs\module4Solution-Standifer\module4Project-Standifer\bin\Debug\net8.0-windows\module4Project-Standifer.exe
+C:\Users\hwsta\Desktop\ITD2343-Portfolio-HunterStandifer\Assignments\Hands on & Labs\module4Solution-Standifer\module4Project-Standifer\bin\Debug\net8.0-windows\module4Project-Standifer.deps.json
+C:\Users\hwsta\Desktop\ITD2343-Portfolio-HunterStandifer\Assignments\Hands on & Labs\module4Solution-Standifer\module4Project-Standifer\bin\Debug\net8.0-windows\module4Project-Standifer.runtimeconfig.json
+C:\Users\hwsta\Desktop\ITD2343-Portfolio-HunterStandifer\Assignments\Hands on & Labs\module4Solution-Standifer\module4Project-Standifer\bin\Debug\net8.0-windows\module4Project-Standifer.dll
+C:\Users\hwsta\Desktop\ITD2343-Portfolio-HunterStandifer\Assignments\Hands on & Labs\module4Solution-Standifer\module4Project-Standifer\bin\Debug\net8.0-windows\module4Project-Standifer.pdb
+C:\Users\hwsta\Desktop\ITD2343-Portfolio-HunterStandifer\Assignments\Hands on & Labs\module4Solution-Standifer\module4Project-Standifer\obj\Debug\net8.0-windows\module4Project_Standifer.frmOfDataTypes.resources
+C:\Users\hwsta\Desktop\ITD2343-Portfolio-HunterStandifer\Assignments\Hands on & Labs\module4Solution-Standifer\module4Project-Standifer\obj\Debug\net8.0-windows\module4Project-Standifer.csproj.GenerateResource.cache
+C:\Users\hwsta\Desktop\ITD2343-Portfolio-HunterStandifer\Assignments\Hands on & Labs\module4Solution-Standifer\module4Project-Standifer\obj\Debug\net8.0-windows\module4Project-Standifer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwsta\Desktop\ITD2343-Portfolio-HunterStandifer\Assignments\Hands on & Labs\module4Solution-Standifer\module4Project-Standifer\obj\Debug\net8.0-windows\module4Project-Standifer.AssemblyInfoInputs.cache
+C:\Users\hwsta\Desktop\ITD2343-Portfolio-HunterStandifer\Assignments\Hands on & Labs\module4Solution-Standifer\module4Project-Standifer\obj\Debug\net8.0-windows\module4Project-Standifer.AssemblyInfo.cs
+C:\Users\hwsta\Desktop\ITD2343-Portfolio-HunterStandifer\Assignments\Hands on & Labs\module4Solution-Standifer\module4Project-Standifer\obj\Debug\net8.0-windows\module4Project-Standifer.csproj.CoreCompileInputs.cache
+C:\Users\hwsta\Desktop\ITD2343-Portfolio-HunterStandifer\Assignments\Hands on & Labs\module4Solution-Standifer\module4Project-Standifer\obj\Debug\net8.0-windows\module4Project-Standifer.dll
+C:\Users\hwsta\Desktop\ITD2343-Portfolio-HunterStandifer\Assignments\Hands on & Labs\module4Solution-Standifer\module4Project-Standifer\obj\Debug\net8.0-windows\refint\module4Project-Standifer.dll
+C:\Users\hwsta\Desktop\ITD2343-Portfolio-HunterStandifer\Assignments\Hands on & Labs\module4Solution-Standifer\module4Project-Standifer\obj\Debug\net8.0-windows\module4Project-Standifer.pdb
+C:\Users\hwsta\Desktop\ITD2343-Portfolio-HunterStandifer\Assignments\Hands on & Labs\module4Solution-Standifer\module4Project-Standifer\obj\Debug\net8.0-windows\module4Project-Standifer.genruntimeconfig.cache
+C:\Users\hwsta\Desktop\ITD2343-Portfolio-HunterStandifer\Assignments\Hands on & Labs\module4Solution-Standifer\module4Project-Standifer\obj\Debug\net8.0-windows\ref\module4Project-Standifer.dll
