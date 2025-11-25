@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "fVEmKFjt4iM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hwsta\\Desktop\\ITD2343-Portfolio-HunterStandifer\\Exams\\Exam1-LabSolution-Standifer\\Exam1-LabProject-Standifer\\Exam1-LabProject-Standifer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hwsta\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.20\\microsoft.windowsdesktop.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\hwsta\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.20\\microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\hwsta\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\8.0.20\\microsoft.netcore.app.host.win-arm64.8.0.20.nupkg.sha512",
+    "C:\\Users\\hwsta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.20\\microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\hwsta\\Desktop\\ITD2343-Portfolio-HunterStandifer\\Exams\\Exam1-LabSolution-Standifer\\Exam1-LabProject-Standifer\\Exam1-LabProject-Standifer.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\hwsta\\Desktop\\ITD2343-Portfolio-HunterStandifer\\Exams\\Exam1-LabSolution-Standifer\\Exam1-LabProject-Standifer\\Exam1-LabProject-Standifer.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

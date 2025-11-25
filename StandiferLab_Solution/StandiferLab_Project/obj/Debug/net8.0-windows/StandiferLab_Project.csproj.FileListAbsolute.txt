@@ -1,0 +1,16 @@
+C:\Users\hwsta\Desktop\Week2 Standifer\StandiferLab_Solution\StandiferLab_Project\obj\Debug\net8.0-windows\StandiferLab_Project.frmStandifer.resources
+C:\Users\hwsta\Desktop\Week2 Standifer\StandiferLab_Solution\StandiferLab_Project\obj\Debug\net8.0-windows\StandiferLab_Project.csproj.GenerateResource.cache
+C:\Users\hwsta\Desktop\Week2 Standifer\StandiferLab_Solution\StandiferLab_Project\obj\Debug\net8.0-windows\StandiferLab_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwsta\Desktop\Week2 Standifer\StandiferLab_Solution\StandiferLab_Project\obj\Debug\net8.0-windows\StandiferLab_Project.AssemblyInfoInputs.cache
+C:\Users\hwsta\Desktop\Week2 Standifer\StandiferLab_Solution\StandiferLab_Project\obj\Debug\net8.0-windows\StandiferLab_Project.AssemblyInfo.cs
+C:\Users\hwsta\Desktop\Week2 Standifer\StandiferLab_Solution\StandiferLab_Project\obj\Debug\net8.0-windows\StandiferLab_Project.csproj.CoreCompileInputs.cache
+C:\Users\hwsta\Desktop\Week2 Standifer\StandiferLab_Solution\StandiferLab_Project\bin\Debug\net8.0-windows\StandiferLab_Project.exe
+C:\Users\hwsta\Desktop\Week2 Standifer\StandiferLab_Solution\StandiferLab_Project\bin\Debug\net8.0-windows\StandiferLab_Project.deps.json
+C:\Users\hwsta\Desktop\Week2 Standifer\StandiferLab_Solution\StandiferLab_Project\bin\Debug\net8.0-windows\StandiferLab_Project.runtimeconfig.json
+C:\Users\hwsta\Desktop\Week2 Standifer\StandiferLab_Solution\StandiferLab_Project\bin\Debug\net8.0-windows\StandiferLab_Project.dll
+C:\Users\hwsta\Desktop\Week2 Standifer\StandiferLab_Solution\StandiferLab_Project\bin\Debug\net8.0-windows\StandiferLab_Project.pdb
+C:\Users\hwsta\Desktop\Week2 Standifer\StandiferLab_Solution\StandiferLab_Project\obj\Debug\net8.0-windows\StandiferLab_Project.dll
+C:\Users\hwsta\Desktop\Week2 Standifer\StandiferLab_Solution\StandiferLab_Project\obj\Debug\net8.0-windows\refint\StandiferLab_Project.dll
+C:\Users\hwsta\Desktop\Week2 Standifer\StandiferLab_Solution\StandiferLab_Project\obj\Debug\net8.0-windows\StandiferLab_Project.pdb
+C:\Users\hwsta\Desktop\Week2 Standifer\StandiferLab_Solution\StandiferLab_Project\obj\Debug\net8.0-windows\StandiferLab_Project.genruntimeconfig.cache
+C:\Users\hwsta\Desktop\Week2 Standifer\StandiferLab_Solution\StandiferLab_Project\obj\Debug\net8.0-windows\ref\StandiferLab_Project.dll

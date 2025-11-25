@@ -1,0 +1,16 @@
+C:\Users\hwsta\Desktop\Sec3LabExam-STANDIFER\Sec3LabExam-STANDIFER\bin\Debug\net8.0-windows\Sec3LabExam-STANDIFER.exe
+C:\Users\hwsta\Desktop\Sec3LabExam-STANDIFER\Sec3LabExam-STANDIFER\bin\Debug\net8.0-windows\Sec3LabExam-STANDIFER.deps.json
+C:\Users\hwsta\Desktop\Sec3LabExam-STANDIFER\Sec3LabExam-STANDIFER\bin\Debug\net8.0-windows\Sec3LabExam-STANDIFER.runtimeconfig.json
+C:\Users\hwsta\Desktop\Sec3LabExam-STANDIFER\Sec3LabExam-STANDIFER\bin\Debug\net8.0-windows\Sec3LabExam-STANDIFER.dll
+C:\Users\hwsta\Desktop\Sec3LabExam-STANDIFER\Sec3LabExam-STANDIFER\bin\Debug\net8.0-windows\Sec3LabExam-STANDIFER.pdb
+C:\Users\hwsta\Desktop\Sec3LabExam-STANDIFER\Sec3LabExam-STANDIFER\obj\Debug\net8.0-windows\Sec3LabExam_STANDIFER.frmDecoder.resources
+C:\Users\hwsta\Desktop\Sec3LabExam-STANDIFER\Sec3LabExam-STANDIFER\obj\Debug\net8.0-windows\Sec3LabExam-STANDIFER.csproj.GenerateResource.cache
+C:\Users\hwsta\Desktop\Sec3LabExam-STANDIFER\Sec3LabExam-STANDIFER\obj\Debug\net8.0-windows\Sec3LabExam-STANDIFER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwsta\Desktop\Sec3LabExam-STANDIFER\Sec3LabExam-STANDIFER\obj\Debug\net8.0-windows\Sec3LabExam-STANDIFER.AssemblyInfoInputs.cache
+C:\Users\hwsta\Desktop\Sec3LabExam-STANDIFER\Sec3LabExam-STANDIFER\obj\Debug\net8.0-windows\Sec3LabExam-STANDIFER.AssemblyInfo.cs
+C:\Users\hwsta\Desktop\Sec3LabExam-STANDIFER\Sec3LabExam-STANDIFER\obj\Debug\net8.0-windows\Sec3LabExam-STANDIFER.csproj.CoreCompileInputs.cache
+C:\Users\hwsta\Desktop\Sec3LabExam-STANDIFER\Sec3LabExam-STANDIFER\obj\Debug\net8.0-windows\Sec3LabExam-STANDIFER.dll
+C:\Users\hwsta\Desktop\Sec3LabExam-STANDIFER\Sec3LabExam-STANDIFER\obj\Debug\net8.0-windows\refint\Sec3LabExam-STANDIFER.dll
+C:\Users\hwsta\Desktop\Sec3LabExam-STANDIFER\Sec3LabExam-STANDIFER\obj\Debug\net8.0-windows\Sec3LabExam-STANDIFER.pdb
+C:\Users\hwsta\Desktop\Sec3LabExam-STANDIFER\Sec3LabExam-STANDIFER\obj\Debug\net8.0-windows\Sec3LabExam-STANDIFER.genruntimeconfig.cache
+C:\Users\hwsta\Desktop\Sec3LabExam-STANDIFER\Sec3LabExam-STANDIFER\obj\Debug\net8.0-windows\ref\Sec3LabExam-STANDIFER.dll
