@@ -1,0 +1,16 @@
+C:\Users\hwsta\Desktop\Week2 Standifer\Week2-Standifer_Solution\Week2-Standifer_Project\bin\Debug\net8.0-windows\Week2-Standifer_Project.exe
+C:\Users\hwsta\Desktop\Week2 Standifer\Week2-Standifer_Solution\Week2-Standifer_Project\bin\Debug\net8.0-windows\Week2-Standifer_Project.deps.json
+C:\Users\hwsta\Desktop\Week2 Standifer\Week2-Standifer_Solution\Week2-Standifer_Project\bin\Debug\net8.0-windows\Week2-Standifer_Project.runtimeconfig.json
+C:\Users\hwsta\Desktop\Week2 Standifer\Week2-Standifer_Solution\Week2-Standifer_Project\bin\Debug\net8.0-windows\Week2-Standifer_Project.dll
+C:\Users\hwsta\Desktop\Week2 Standifer\Week2-Standifer_Solution\Week2-Standifer_Project\bin\Debug\net8.0-windows\Week2-Standifer_Project.pdb
+C:\Users\hwsta\Desktop\Week2 Standifer\Week2-Standifer_Solution\Week2-Standifer_Project\obj\Debug\net8.0-windows\Week2_Standifer_Project.frmFall2025.resources
+C:\Users\hwsta\Desktop\Week2 Standifer\Week2-Standifer_Solution\Week2-Standifer_Project\obj\Debug\net8.0-windows\Week2-Standifer_Project.csproj.GenerateResource.cache
+C:\Users\hwsta\Desktop\Week2 Standifer\Week2-Standifer_Solution\Week2-Standifer_Project\obj\Debug\net8.0-windows\Week2-Standifer_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwsta\Desktop\Week2 Standifer\Week2-Standifer_Solution\Week2-Standifer_Project\obj\Debug\net8.0-windows\Week2-Standifer_Project.AssemblyInfoInputs.cache
+C:\Users\hwsta\Desktop\Week2 Standifer\Week2-Standifer_Solution\Week2-Standifer_Project\obj\Debug\net8.0-windows\Week2-Standifer_Project.AssemblyInfo.cs
+C:\Users\hwsta\Desktop\Week2 Standifer\Week2-Standifer_Solution\Week2-Standifer_Project\obj\Debug\net8.0-windows\Week2-Standifer_Project.csproj.CoreCompileInputs.cache
+C:\Users\hwsta\Desktop\Week2 Standifer\Week2-Standifer_Solution\Week2-Standifer_Project\obj\Debug\net8.0-windows\Week2-Standifer_Project.dll
+C:\Users\hwsta\Desktop\Week2 Standifer\Week2-Standifer_Solution\Week2-Standifer_Project\obj\Debug\net8.0-windows\refint\Week2-Standifer_Project.dll
+C:\Users\hwsta\Desktop\Week2 Standifer\Week2-Standifer_Solution\Week2-Standifer_Project\obj\Debug\net8.0-windows\Week2-Standifer_Project.pdb
+C:\Users\hwsta\Desktop\Week2 Standifer\Week2-Standifer_Solution\Week2-Standifer_Project\obj\Debug\net8.0-windows\Week2-Standifer_Project.genruntimeconfig.cache
+C:\Users\hwsta\Desktop\Week2 Standifer\Week2-Standifer_Solution\Week2-Standifer_Project\obj\Debug\net8.0-windows\ref\Week2-Standifer_Project.dll
