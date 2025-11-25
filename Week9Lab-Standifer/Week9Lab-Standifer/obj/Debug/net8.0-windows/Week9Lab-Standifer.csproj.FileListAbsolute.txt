@@ -1,0 +1,16 @@
+C:\Users\hwsta\Desktop\Week9Lab-Standifer\Week9Lab-Standifer\bin\Debug\net8.0-windows\Week9Lab-Standifer.exe
+C:\Users\hwsta\Desktop\Week9Lab-Standifer\Week9Lab-Standifer\bin\Debug\net8.0-windows\Week9Lab-Standifer.deps.json
+C:\Users\hwsta\Desktop\Week9Lab-Standifer\Week9Lab-Standifer\bin\Debug\net8.0-windows\Week9Lab-Standifer.runtimeconfig.json
+C:\Users\hwsta\Desktop\Week9Lab-Standifer\Week9Lab-Standifer\bin\Debug\net8.0-windows\Week9Lab-Standifer.dll
+C:\Users\hwsta\Desktop\Week9Lab-Standifer\Week9Lab-Standifer\bin\Debug\net8.0-windows\Week9Lab-Standifer.pdb
+C:\Users\hwsta\Desktop\Week9Lab-Standifer\Week9Lab-Standifer\obj\Debug\net8.0-windows\Week9Lab_Standifer.frmCheckDigit.resources
+C:\Users\hwsta\Desktop\Week9Lab-Standifer\Week9Lab-Standifer\obj\Debug\net8.0-windows\Week9Lab-Standifer.csproj.GenerateResource.cache
+C:\Users\hwsta\Desktop\Week9Lab-Standifer\Week9Lab-Standifer\obj\Debug\net8.0-windows\Week9Lab-Standifer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwsta\Desktop\Week9Lab-Standifer\Week9Lab-Standifer\obj\Debug\net8.0-windows\Week9Lab-Standifer.AssemblyInfoInputs.cache
+C:\Users\hwsta\Desktop\Week9Lab-Standifer\Week9Lab-Standifer\obj\Debug\net8.0-windows\Week9Lab-Standifer.AssemblyInfo.cs
+C:\Users\hwsta\Desktop\Week9Lab-Standifer\Week9Lab-Standifer\obj\Debug\net8.0-windows\Week9Lab-Standifer.csproj.CoreCompileInputs.cache
+C:\Users\hwsta\Desktop\Week9Lab-Standifer\Week9Lab-Standifer\obj\Debug\net8.0-windows\Week9Lab-Standifer.dll
+C:\Users\hwsta\Desktop\Week9Lab-Standifer\Week9Lab-Standifer\obj\Debug\net8.0-windows\refint\Week9Lab-Standifer.dll
+C:\Users\hwsta\Desktop\Week9Lab-Standifer\Week9Lab-Standifer\obj\Debug\net8.0-windows\Week9Lab-Standifer.pdb
+C:\Users\hwsta\Desktop\Week9Lab-Standifer\Week9Lab-Standifer\obj\Debug\net8.0-windows\Week9Lab-Standifer.genruntimeconfig.cache
+C:\Users\hwsta\Desktop\Week9Lab-Standifer\Week9Lab-Standifer\obj\Debug\net8.0-windows\ref\Week9Lab-Standifer.dll

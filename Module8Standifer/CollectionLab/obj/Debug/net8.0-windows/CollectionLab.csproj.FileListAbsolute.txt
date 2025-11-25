@@ -1,0 +1,16 @@
+C:\Users\hwsta\Desktop\CollectionLab\CollectionLab\obj\Debug\net8.0-windows\CollectionLab.frmCollections.resources
+C:\Users\hwsta\Desktop\CollectionLab\CollectionLab\obj\Debug\net8.0-windows\CollectionLab.csproj.GenerateResource.cache
+C:\Users\hwsta\Desktop\CollectionLab\CollectionLab\obj\Debug\net8.0-windows\CollectionLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwsta\Desktop\CollectionLab\CollectionLab\obj\Debug\net8.0-windows\CollectionLab.AssemblyInfoInputs.cache
+C:\Users\hwsta\Desktop\CollectionLab\CollectionLab\obj\Debug\net8.0-windows\CollectionLab.AssemblyInfo.cs
+C:\Users\hwsta\Desktop\CollectionLab\CollectionLab\obj\Debug\net8.0-windows\CollectionLab.csproj.CoreCompileInputs.cache
+C:\Users\hwsta\Desktop\CollectionLab\CollectionLab\bin\Debug\net8.0-windows\CollectionLab.exe
+C:\Users\hwsta\Desktop\CollectionLab\CollectionLab\bin\Debug\net8.0-windows\CollectionLab.deps.json
+C:\Users\hwsta\Desktop\CollectionLab\CollectionLab\bin\Debug\net8.0-windows\CollectionLab.runtimeconfig.json
+C:\Users\hwsta\Desktop\CollectionLab\CollectionLab\bin\Debug\net8.0-windows\CollectionLab.dll
+C:\Users\hwsta\Desktop\CollectionLab\CollectionLab\bin\Debug\net8.0-windows\CollectionLab.pdb
+C:\Users\hwsta\Desktop\CollectionLab\CollectionLab\obj\Debug\net8.0-windows\CollectionLab.dll
+C:\Users\hwsta\Desktop\CollectionLab\CollectionLab\obj\Debug\net8.0-windows\refint\CollectionLab.dll
+C:\Users\hwsta\Desktop\CollectionLab\CollectionLab\obj\Debug\net8.0-windows\CollectionLab.pdb
+C:\Users\hwsta\Desktop\CollectionLab\CollectionLab\obj\Debug\net8.0-windows\CollectionLab.genruntimeconfig.cache
+C:\Users\hwsta\Desktop\CollectionLab\CollectionLab\obj\Debug\net8.0-windows\ref\CollectionLab.dll
