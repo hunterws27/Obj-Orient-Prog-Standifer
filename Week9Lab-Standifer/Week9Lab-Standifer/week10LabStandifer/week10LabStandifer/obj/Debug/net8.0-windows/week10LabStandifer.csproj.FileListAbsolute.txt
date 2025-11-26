@@ -1,0 +1,16 @@
+C:\Users\hwsta\Desktop\week10LabStandifer\week10LabStandifer\obj\Debug\net8.0-windows\week10LabStandifer.csproj.GenerateResource.cache
+C:\Users\hwsta\Desktop\week10LabStandifer\week10LabStandifer\obj\Debug\net8.0-windows\week10LabStandifer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwsta\Desktop\week10LabStandifer\week10LabStandifer\obj\Debug\net8.0-windows\week10LabStandifer.AssemblyInfoInputs.cache
+C:\Users\hwsta\Desktop\week10LabStandifer\week10LabStandifer\obj\Debug\net8.0-windows\week10LabStandifer.AssemblyInfo.cs
+C:\Users\hwsta\Desktop\week10LabStandifer\week10LabStandifer\obj\Debug\net8.0-windows\week10LabStandifer.csproj.CoreCompileInputs.cache
+C:\Users\hwsta\Desktop\week10LabStandifer\week10LabStandifer\bin\Debug\net8.0-windows\week10LabStandifer.exe
+C:\Users\hwsta\Desktop\week10LabStandifer\week10LabStandifer\bin\Debug\net8.0-windows\week10LabStandifer.deps.json
+C:\Users\hwsta\Desktop\week10LabStandifer\week10LabStandifer\bin\Debug\net8.0-windows\week10LabStandifer.runtimeconfig.json
+C:\Users\hwsta\Desktop\week10LabStandifer\week10LabStandifer\bin\Debug\net8.0-windows\week10LabStandifer.dll
+C:\Users\hwsta\Desktop\week10LabStandifer\week10LabStandifer\bin\Debug\net8.0-windows\week10LabStandifer.pdb
+C:\Users\hwsta\Desktop\week10LabStandifer\week10LabStandifer\obj\Debug\net8.0-windows\week10LabStandifer.frmRadioStar.resources
+C:\Users\hwsta\Desktop\week10LabStandifer\week10LabStandifer\obj\Debug\net8.0-windows\week10LabStandifer.dll
+C:\Users\hwsta\Desktop\week10LabStandifer\week10LabStandifer\obj\Debug\net8.0-windows\refint\week10LabStandifer.dll
+C:\Users\hwsta\Desktop\week10LabStandifer\week10LabStandifer\obj\Debug\net8.0-windows\week10LabStandifer.pdb
+C:\Users\hwsta\Desktop\week10LabStandifer\week10LabStandifer\obj\Debug\net8.0-windows\week10LabStandifer.genruntimeconfig.cache
+C:\Users\hwsta\Desktop\week10LabStandifer\week10LabStandifer\obj\Debug\net8.0-windows\ref\week10LabStandifer.dll
